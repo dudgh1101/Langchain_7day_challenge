@@ -71,7 +71,7 @@ def print_history():
     print("\n📜 현재 JSON 대화 내역:")
     print(json.dumps(history, ensure_ascii=False, indent=2))
 
-def run_cli_chatbot():
+def run_chatbot():
     print("(종료하려면 exit 입력)")
     while True:
         user_input = input("You: ").strip()
@@ -87,6 +87,4 @@ def run_cli_chatbot():
         response = invoke_chain(user_input)
         print(f"\nAI: {response}\n")
 
-
-if __name__ == "__main__":
-    run_cli_chatbot()
+run_chatbot()

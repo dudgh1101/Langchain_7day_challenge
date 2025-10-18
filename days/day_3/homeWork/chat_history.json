@@ -126,5 +126,45 @@
   {
     "role": "ai",
     "content": "Your name is Turolin. How can I assist you further?"
+  },
+  {
+    "role": "human",
+    "content": "hi"
+  },
+  {
+    "role": "ai",
+    "content": "Hello again! How are you?"
+  },
+  {
+    "role": "human",
+    "content": "what is my name?"
+  },
+  {
+    "role": "ai",
+    "content": "Your name is Turolin. How can I assist you today?"
+  },
+  {
+    "role": "human",
+    "content": "i'm good, how about you?"
+  },
+  {
+    "role": "ai",
+    "content": "I’m glad to hear you’re doing well! I’m here and ready to help with anything you need. What’s on your mind?"
+  },
+  {
+    "role": "human",
+    "content": "good bye"
+  },
+  {
+    "role": "ai",
+    "content": "Goodbye, Turolin! If you ever want to chat again, feel free to come back. Take care!"
+  },
+  {
+    "role": "human",
+    "content": "chaat_history"
+  },
+  {
+    "role": "ai",
+    "content": "It seems like you're asking about chat history again. I don't have the ability to access or display previous conversations. Each session is separate, and I can't recall past interactions. If you have any specific questions or topics you'd like to discuss, feel free to let me know!"
   }
 ]
